@@ -1,0 +1,22 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "## Exercise 1",
+  "main": "pretty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyitsolivia/js-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyitsolivia/js-exercises/issues"
+  },
+  "homepage": "https://github.com/heyitsolivia/js-exercises#readme",
+  "devDependencies": {
+    "event-stream": "^3.3.2"
+  }
+}
